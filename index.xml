@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site </title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <language>en-us</language>
+    <author>Thanakom S</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-05-29 17:04:25 &#43;0700 ICT</updated>
+
+    
+      
+        <item>
+          <title>My first page</title>
+          <link>http://replace-this-with-your-hugo-site.com/post/first-page/</link>
+          <pubDate>Sun, 29 May 2016 17:04:25 ICT</pubDate>
+          <author>Thanakom S</author>
+          <guid>http://replace-this-with-your-hugo-site.com/post/first-page/</guid>
+          <description>&lt;p&gt;Lorem ipsum dolor sit amet, &lt;strong&gt;consectetur adipiscing elit&lt;/strong&gt;. Suspendisse pretium varius suscipit. Aenean tincidunt orci eget arcu volutpat, eu scelerisque nibh placerat. Mauris malesuada lorem quis ipsum elementum gravida. Aliquam nunc sem, varius ut nunc id, ornare dapibus mauris. Vestibulum consequat tristique dolor, vitae iaculis risus convallis vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras a nulla elementum, tincidunt metus vel, convallis ipsum. Curabitur dictum orci et est tristique vulputate.&lt;/p&gt;
+
+&lt;p&gt;Nullam vitae sapien dapibus, tincidunt metus id, dapibus ante. Maecenas et bibendum nibh. Morbi vel lacus semper lacus aliquam blandit. Duis sagittis tellus id tortor hendrerit imperdiet at nec tortor. Quisque iaculis erat eu ligula aliquam, quis facilisis risus posuere. Donec eu tellus mollis ante ornare consequat. Vestibulum gravida consectetur accumsan. Duis ornare leo eget nisl lacinia, eget vehicula purus vehicula. Nam vulputate, massa vitae auctor posuere, mi nisl ultricies ipsum, in iaculis augue quam non est. Suspendisse potenti. In ornare interdum libero ut finibus. Curabitur ullamcorper facilisis orci vitae accumsan. Donec in faucibus elit. Suspendisse non odio varius, tempor lacus imperdiet, tempus turpis. Praesent ut augue a libero pulvinar feugiat at et diam.&lt;/p&gt;
+
+&lt;p&gt;Integer a malesuada nulla. Duis vitae elementum lectus. Praesent pharetra egestas nisi id auctor. Ut sit amet nisl ut nunc facilisis eleifend ac ut eros. In sit amet lacus dui. Donec gravida diam a venenatis finibus. Etiam convallis eleifend sem nec vehicula. Sed non maximus massa. Nunc vitae varius neque. Nullam eu luctus metus. Phasellus mi felis, pellentesque et tincidunt vel, rutrum nec quam. Suspendisse sagittis dolor felis, dictum rhoncus diam dapibus vitae.&lt;/p&gt;
+
+&lt;p&gt;Sed dolor lectus, euismod eu ligula sit amet, tincidunt semper nisl. Nunc suscipit turpis non enim accumsan scelerisque. Ut lorem nibh, porta ut luctus eu, finibus vel dolor. Proin non faucibus ipsum, nec pharetra massa. Proin quis magna eget mauris bibendum commodo. Phasellus venenatis ante lacinia mauris placerat tristique. Maecenas quis libero leo. Aliquam velit ligula, vulputate ac lorem id, rutrum porta nibh. Nam enim enim, posuere et velit id, vulputate sagittis erat.&lt;/p&gt;
+
+&lt;p&gt;Sed a vulputate diam, non vulputate augue. Ut ante mauris, commodo quis mi sed, lobortis molestie urna. Aenean rutrum sed ipsum sed cursus. Donec vulputate nisl ac posuere ultricies. In posuere metus dictum leo dapibus vehicula. Fusce condimentum posuere justo, eget gravida arcu viverra vel. Sed sit amet scelerisque tellus, id lacinia nunc.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
