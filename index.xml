@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site </title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://prideloki.github.io/hugo-demo/</link>
     <language>en-us</language>
     <author>Thanakom S</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>My first page</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/first-page/</link>
+          <link>https://prideloki.github.io/hugo-demo/post/first-page/</link>
           <pubDate>Sun, 29 May 2016 17:04:25 ICT</pubDate>
           <author>Thanakom S</author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/first-page/</guid>
+          <guid>https://prideloki.github.io/hugo-demo/post/first-page/</guid>
           <description>&lt;p&gt;Lorem ipsum dolor sit amet, &lt;strong&gt;consectetur adipiscing elit&lt;/strong&gt;. Suspendisse pretium varius suscipit. Aenean tincidunt orci eget arcu volutpat, eu scelerisque nibh placerat. Mauris malesuada lorem quis ipsum elementum gravida. Aliquam nunc sem, varius ut nunc id, ornare dapibus mauris. Vestibulum consequat tristique dolor, vitae iaculis risus convallis vel. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras a nulla elementum, tincidunt metus vel, convallis ipsum. Curabitur dictum orci et est tristique vulputate.&lt;/p&gt;
 
 &lt;p&gt;Nullam vitae sapien dapibus, tincidunt metus id, dapibus ante. Maecenas et bibendum nibh. Morbi vel lacus semper lacus aliquam blandit. Duis sagittis tellus id tortor hendrerit imperdiet at nec tortor. Quisque iaculis erat eu ligula aliquam, quis facilisis risus posuere. Donec eu tellus mollis ante ornare consequat. Vestibulum gravida consectetur accumsan. Duis ornare leo eget nisl lacinia, eget vehicula purus vehicula. Nam vulputate, massa vitae auctor posuere, mi nisl ultricies ipsum, in iaculis augue quam non est. Suspendisse potenti. In ornare interdum libero ut finibus. Curabitur ullamcorper facilisis orci vitae accumsan. Donec in faucibus elit. Suspendisse non odio varius, tempor lacus imperdiet, tempus turpis. Praesent ut augue a libero pulvinar feugiat at et diam.&lt;/p&gt;
